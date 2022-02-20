@@ -1,0 +1,20 @@
+@@@@@@@@@@@@@@@@@@@@@@
+@Y|generation level  @
+@@@@@@@@@@@@@@@@@@@@@@
+######################
+@@@@@@@@@@@@@@@@@@@@@@
+@ |  my_level.txt    @
+@@@@@@@@@@@@@@@@@@@@@@
+######################
+@@@@@@@@@@@@@@@@@@@@@@
+@ |      exit        @
+@@@@@@@@@@@@@@@@@@@@@@
+w - move up
+s - move down
+a - move left
+d - move right
+c - choose(working 
+only on main_menu)
+e - exit to
+main_menu(working
+only on games)
