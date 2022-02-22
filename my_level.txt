@@ -1,8 +1,0 @@
-NNNNNNNNNNNN
-N     NNN  N
-NPNNN N N  N
-NNN   N    N
-N   NNN N  N
-N NN    N  N
-N    N NZ  N
-NNNNNNNNNNNN
