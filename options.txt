@@ -1,0 +1,2 @@
+isUnix(t/f) = t
+keyboard(t/f) = t

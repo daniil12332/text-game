@@ -1,0 +1,14 @@
+NNNNNNNNNNNNNNNN
+NP       N   N N
+NNN NN NN N  N N
+N   N    Z N N N
+N  NN N N N  N N
+N N N N  N  NN N
+N  NN N    N   N
+N   N N    N NNN
+N N N      N  NN
+N N NNNN    N NN
+N     NN    N NN
+N NNN NNNNNNN NN
+NN            NN
+NNNNNNNNNNNNNNNN
